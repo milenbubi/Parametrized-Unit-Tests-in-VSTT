@@ -1,0 +1,18 @@
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Tests\bin\Debug\Data.xml
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Tests\bin\Debug\Tests.dll
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Tests\bin\Debug\Tests.pdb
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Tests\bin\Debug\Utilities.dll
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Tests\bin\Debug\Utilities.pdb
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Tests\obj\Debug\Tests.dll
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Tests\obj\Debug\Tests.pdb
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Tests\bin\Debug\Data.xml
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Tests\bin\Debug\Tests.dll
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Tests\bin\Debug\Tests.pdb
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Tests\bin\Debug\Utilities.dll
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Tests\bin\Debug\Utilities.pdb
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Tests\obj\Debug\Tests.dll
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Tests\obj\Debug\Tests.pdb

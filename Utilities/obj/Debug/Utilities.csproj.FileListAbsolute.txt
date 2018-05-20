@@ -1,0 +1,10 @@
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Utilities\bin\Debug\Utilities.dll
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Utilities\obj\Debug\Utilities.dll
+C:\Users\Fil\Documents\Visual Studio 2015\Projects\UnitTest\Utilities\obj\Debug\Utilities.pdb
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Utilities\bin\Debug\Utilities.dll
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Utilities\bin\Debug\Utilities.pdb
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Utilities\obj\Debug\Utilities.csprojResolveAssemblyReference.cache
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Utilities\obj\Debug\Utilities.dll
+C:\Users\Fil\Desktop\PUTVS\Parametrized-Unit-Tests-in-VSTT\Utilities\obj\Debug\Utilities.pdb
